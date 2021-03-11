@@ -1,0 +1,5 @@
+DIFFERNCE BETWEEN PROLOG AND OTHELAGNUAGES
+prolg: declartive langugae
+	-> work on 1-> pattern match (gmail,cnic) in prolog it work for 100%, unification. 
+			knowledge represnation : 1-> logic a->proposotional logic b-> predicated logic/calculus , 2-> rules: mixture of propsiotional and prdedicate,3->OAV
+		   2-> 

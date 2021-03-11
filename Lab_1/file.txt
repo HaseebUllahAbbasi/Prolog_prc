@@ -1,0 +1,12 @@
+likes(mark,Anything,in_hunger).  // 
+likes(mark,Any_type,of_cars).
+
+is_tall(dany).
+is_short(napoleaon).
+are_sour(Llemons).
+
+the_sister(susan,of_john).
+
+plays(charlie_parker,piano).
+
+

@@ -1,0 +1,153 @@
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+LPA WIN-PROLOG 4.000 - S/N 0010165739 - 18 Mar 1999
+Copyright (c) 1999 Logic Programming Associates Ltd
+Licensed To: LPA Prolog V4.0                       
+B=64 L=64 R=64 H=255 T=391 P=1231 S=63 I=64 O=64 Kb
+ÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ
+| ?- bigger(donkey,dog)
+! ----------------------------------------
+! Error 42 : Syntax Error
+! Goal     : eread(_24542,_24544)
+Aborted
+| ?- donkey bigger dog
+! ----------------------------------------
+! Error 42 : Syntax Error
+! Goal     : eread(_38642,_38644)
+
+Aborted
+| ?- bigger(donkey,dog).
+yes
+
+| ?- 
+# Abolishing untitled [c:\program files\win-prolog 4\] 
+# 0.00 seconds to consult untitled [c:\program files\win-prolog 4\] 
+| ?- john_Forgot_His_Raincoat.
+yes
+
+| ?- 
+# Abolishing untitled [c:\program files\win-prolog 4\] 
+# 0.00 seconds to consult untitled [c:\program files\win-prolog 4\] 
+| ?- red_bx.
+! ----------------------------------------
+! Error 20 : Predicate Not Defined
+! Goal     : red_bx
+
+Aborted
+| ?- 
+# Abolishing untitled [c:\program files\win-prolog 4\] 
+# 0.00 seconds to consult untitled [c:\program files\win-prolog 4\] 
+| ?- eats(john,What).
+What = apple ;
+
+What = grapefruit
+
+| ?- eats(Who,what).
+no
+
+| ?- eats(Who,What).
+Who = fred ,
+What = oranges 
+
+| ?- eats(Who,What).
+! ----------------------------------------
+! Error 42 : Syntax Error
+! Goal     : eread(_13624,_13626)
+
+Aborted
+| ?- eats(Who,What).
+Who = fred ,
+What = oranges ;
+
+Who = fred ,
+What = t_bone_steaks ;
+
+Who = tony ,
+What = apple ;
+
+Who = john ,
+What = apple ;
+
+Who = john ,
+What = grapefruit
+
+| ?- Eats(Who,What).
+Error 21, Control Error
+
+Aborted
+| ?- 
+# Abolishing untitled [c:\program files\win-prolog 4\] 
+# 0.00 seconds to consult untitled [c:\program files\win-prolog 4\] 
+| ?- eats(41).
+! ----------------------------------------
+! Error 42 : Syntax Error
+! Goal     : eread(_10406,_10408)
+
+Aborted
+| ?- 
+# Abolishing untitled [c:\program files\win-prolog 4\] 
+# 0.00 seconds to consult untitled [c:\program files\win-prolog 4\] 
+| ?- eats(a).
+yes
+
+| ?- 
+# Abolishing untitled [c:\program files\win-prolog 4\] 
+# 0.00 seconds to consult untitled [c:\program files\win-prolog 4\] 
+| ?- eats(41).
+yes
+
+| ?- # Abolishing untitled [c:\program files\win-prolog 4\] 
+# 0.00 seconds to consult untitled [c:\program files\win-prolog 4\] 
+| ?- tape(5,Aritist,Album,Favorie_Song).
+! ----------------------------------------
+! Error 20 : Predicate Not Defined
+! Goal     : tpe(5,_28448,_28454,_28460)
+
+Aborted
+| ?- tape(5,Aritist,Album,Favorie_Song).
+Aritist = eagles ,
+Album = hostel_california ,
+Favorie_Song = new_kid_in_town
+
+| ?- 
+# Abolishing untitled [c:\program files\win-prolog 4\] 
+# 0.00 seconds to consult untitled [c:\program files\win-prolog 4\] 
+| ?- eats(Person,jim).
+Person = fred
+
+| ?- eats(Person,Food).
+Person = fred ,
+Food = oranges ;
+
+Person = fred ,
+Food = t_bone_steaks ;
+
+Person = tony ,
+Food = apple ;
+
+Person = john ,
+Food = apple ;
+
+Person = john ,
+Food = grapefruit ;
+
+Person = fred ,
+Food = _
+
+| ?- 
+# Abolishing untitled [c:\program files\win-prolog 4\] 
+# 0.00 seconds to consult untitled [c:\program files\win-prolog 4\] 
+| ?- f(X,Y).
+X = _ ,
+Y = a
+
+| ?- 
+# Abolishing untitled [c:\program files\win-prolog 4\] 
+# 0.00 seconds to consult untitled [c:\program files\win-prolog 4\] 
+| ?- a(P,L).
+P = _
+
+| ?- a(P,L).
+P = _ ,
+L = _
+
+| ?- 
